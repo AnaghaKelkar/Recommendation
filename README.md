@@ -1,5 +1,4 @@
-# Recommendation
-Developing Recommendation Engine using Python
+# Developing Recommendation Engine using Python
 
 1. Fetch movie datasets from LightFM.datasets.
 2. Fetch training and testing data from the dataset.
